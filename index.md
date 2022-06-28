@@ -1,4 +1,4 @@
-<h2>My GitHub repositories</h2>
+<h2>GitHub repositories</h2>
 
 <a href="https://github.com/Marian-Vittek/sglib">https://github.com/Marian-Vittek/sglib</a>: SGLIB - a simple generic library for C.
 
